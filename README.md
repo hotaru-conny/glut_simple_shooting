@@ -9,6 +9,7 @@ Visual Studioで、「NuGetパッケージの管理」から、nupengl.coreを�
 ## 遊び方
 Visual Studioで、デバッグなしで実行すると動作します。  
 マウスで左右に移動し、クリックで弾を打ちます。  
+敵に触れる、または敵が手前の黒いラインまで到達するとゲームオーバーです。  
 ゲームオーバー画面はありませんが、Rキーを押すことで、ゲームをリセットして最初からプレイできます。  
 
 ![image](https://github.com/hotaru-conny/glut_simple_shooting/assets/63710354/a205affb-526c-493e-b24a-2f0ce0e1d0b0)
